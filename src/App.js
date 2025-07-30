@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { evaluate, sqrt, pi, e } from 'mathjs';
+import { evaluate, pi, e } from 'mathjs';
 import './Calculator.css';
 
 function App() {
